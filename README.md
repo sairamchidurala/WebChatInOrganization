@@ -1,5 +1,1 @@
 # WebChatInOrganization
-
-
-* Hello
-
